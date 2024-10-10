@@ -1,10 +1,8 @@
 ﻿class Lab
 {
-
     public static void Main(string[] args)
     {
         int next = 1;
-
         while (next > 0)
         {
             int neew,result=0;
@@ -30,10 +28,6 @@
             {
                 Console.WriteLine(result);
             }
-            
-
-
-
         }
     }
 }
